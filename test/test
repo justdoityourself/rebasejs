@@ -1,0 +1,6 @@
+const rebasejs = require('../index');
+
+console.log(rebasejs.rebaseLinear(['1','0','0','0','1'],10,2)); // result: [1,7]
+console.log(rebasejs.rebaseLinear([1,0,0,0,1],10,2)); // result: [1,7]
+console.log(rebasejs.rebaseLinear(['f','f','f'],8,16)); // result: [7,7,7,7]
+console.log(rebasejs.rebaseLinear(['f','f','f'],4,16)); // result: [7,7,7,7]

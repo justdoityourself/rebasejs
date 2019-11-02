@@ -1,0 +1,19 @@
+{
+  "name": "rebasejs",
+  "version": "1.0.0",
+  "description": "Convert between number bases, including polynomial bases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justdoityourself/rebasejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justdoityourself/rebasejs/issues"
+  },
+  "homepage": "https://github.com/justdoityourself/rebasejs#readme"
+}
